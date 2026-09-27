@@ -1,15 +1,14 @@
 {
-  "version": "1.0.1",
-  "build": 21,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.1/bellosend-1.0.1-universal.apk",
-  "sha256": "40e754f96c2b11da7d6a9f9632bf6bb093ddf8c595af44dab164091fdfa6050b",
+  "version": "1.0.2",
+  "build": 22,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.2/bellosend-1.0.2-universal.apk",
+  "sha256": "4b9a534563dcde26f4da13ca23b13ab367029931d79b3bf8c9756e8660da59a1",
   "size": 106573796,
   "min_build": 0,
-  "published_at": "2026-09-27T06:03:44Z",
+  "published_at": "2026-09-27T06:29:28Z",
   "notes": [
-    "Times now follow the organization's timezone, like the web app",
-    "Reactions Instagram refuses are no longer left on the message",
-    "Audit log: the Who filter lists people, not automation",
-    "iOS: voice notes, ringtones, saving to the library and sharing all fixed"
+    "Updates have their own page: Settings → Updates",
+    "The app now tells you when a new version is available",
+    "About is about BelloSend again, not build numbers"
   ]
 }
