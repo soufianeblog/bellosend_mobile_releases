@@ -1,14 +1,14 @@
 {
-  "version": "1.0.2",
-  "build": 22,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.2/bellosend-1.0.2-universal.apk",
-  "sha256": "4b9a534563dcde26f4da13ca23b13ab367029931d79b3bf8c9756e8660da59a1",
-  "size": 106573796,
+  "version": "1.0.3",
+  "build": 23,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.3/bellosend-1.0.3-universal.apk",
+  "sha256": "494850bd84a725c56b674202605e8d77c51937ec5cd392e746a3e9b2f27c752e",
+  "size": 106573736,
   "min_build": 0,
-  "published_at": "2026-09-27T06:29:28Z",
+  "published_at": "2026-09-27T06:42:24Z",
   "notes": [
-    "Updates have their own page: Settings → Updates",
-    "The app now tells you when a new version is available",
-    "About is about BelloSend again, not build numbers"
+    "Each channel gets its own colour in Messages by channel",
+    "A cleaner Updates page when there is nothing to install",
+    "About links to BelloCloud"
   ]
 }
