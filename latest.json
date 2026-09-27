@@ -1,13 +1,15 @@
 {
-  "version": "0.0.19",
-  "build": 19,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v0.0.19/bellosend-0.0.19-universal.apk",
-  "sha256": "d248d44ae4f948621ba758113f41013430a81fd84530211875cdb1f245180ef8",
+  "version": "1.0.0",
+  "build": 20,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.0/bellosend-1.0.0-universal.apk",
+  "sha256": "df7c449444bedd460342af5a9bb42e140928343e06a0907ce63d402ff1e2629c",
   "size": 106599364,
   "min_build": 0,
-  "published_at": "2026-09-27T04:28:47Z",
+  "published_at": "2026-09-27T04:41:08Z",
   "notes": [
-    "Version shown on the splash screen and in Settings",
+    "BelloSend 1.0.0",
+    "Self-updating is Android-only; iOS will update through the App Store",
+    "Version on the splash screen and in Settings",
     "Messages by channel: the legend stays inside its card",
     "About: call, WhatsApp and email us in one tap"
   ]
