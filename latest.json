@@ -1,0 +1,15 @@
+{
+  "version": "0.0.18",
+  "build": 18,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v0.0.18/bellosend-0.0.18-universal.apk",
+  "sha256": "c4ce4600b8e4b63dabb693c0c12a3d8207789a09b95eaebbe3739432c238ceb1",
+  "size": 106582980,
+  "min_build": 0,
+  "published_at": "2026-09-27T04:02:44Z",
+  "notes": [
+    "About page: version, build, licences and legal links",
+    "The app now checks for updates and installs them itself",
+    "Ads running the same post are one row, in the report and on the card",
+    "Order statuses and types read in French, Arabic and Spanish"
+  ]
+}
