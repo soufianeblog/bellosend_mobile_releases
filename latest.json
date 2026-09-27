@@ -1,14 +1,14 @@
 {
-  "version": "1.0.4",
-  "build": 24,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.4/bellosend-1.0.4-universal.apk",
-  "sha256": "99bfe9eb8fa3ee1d5472b32b0ab531830f5fd75dd5bcc96f86ba0a3ffd2d5035",
-  "size": 107337205,
+  "version": "1.0.5",
+  "build": 25,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.5/bellosend-1.0.5-universal.apk",
+  "sha256": "87f845ab4872f9f65603e8bde6bb89aac8ae0dc7b09aa9c01c5c3a12e9abe6b4",
+  "size": 107337209,
   "min_build": 0,
-  "published_at": "2026-09-27T06:59:10Z",
+  "published_at": "2026-09-27T07:13:45Z",
   "notes": [
-    "Product analytics with fully masked session replay",
-    "The update check can no longer be served a stale answer",
-    "Updates page names both your version and the latest"
+    "Session replay records the screen as it is",
+    "Updating the app no longer signs you out",
+    "Full PostHog analytics on the phone"
   ]
 }
