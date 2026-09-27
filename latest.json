@@ -1,15 +1,14 @@
 {
-  "version": "0.0.18",
-  "build": 18,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v0.0.18/bellosend-0.0.18-universal.apk",
-  "sha256": "c4ce4600b8e4b63dabb693c0c12a3d8207789a09b95eaebbe3739432c238ceb1",
-  "size": 106582980,
+  "version": "0.0.19",
+  "build": 19,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v0.0.19/bellosend-0.0.19-universal.apk",
+  "sha256": "d248d44ae4f948621ba758113f41013430a81fd84530211875cdb1f245180ef8",
+  "size": 106599364,
   "min_build": 0,
-  "published_at": "2026-09-27T04:02:44Z",
+  "published_at": "2026-09-27T04:28:47Z",
   "notes": [
-    "About page: version, build, licences and legal links",
-    "The app now checks for updates and installs them itself",
-    "Ads running the same post are one row, in the report and on the card",
-    "Order statuses and types read in French, Arabic and Spanish"
+    "Version shown on the splash screen and in Settings",
+    "Messages by channel: the legend stays inside its card",
+    "About: call, WhatsApp and email us in one tap"
   ]
 }
