@@ -1,13 +1,15 @@
 {
-  "version": "1.0.6",
-  "build": 26,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.6/bellosend-1.0.6-universal.apk",
-  "sha256": "a63e1228b89173bad76e5981216f32eac8792e639f9bbe3a567c507eb8845add",
-  "size": 107337209,
+  "version": "1.0.7",
+  "build": 27,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.7/bellosend-1.0.7-universal.apk",
+  "sha256": "e5e8601ae9a3f76eb7fe913b50e7b7acdb9e8e5dea9f8e287e445bf3e582e3fa",
+  "size": 107353865,
   "min_build": 0,
-  "published_at": "2026-09-27T07:21:20Z",
+  "published_at": "2026-09-27T11:24:01Z",
   "notes": [
-    "Update checks read the release directly, so a new version shows at once",
-    "The app tells you about a waiting update every time you open it"
+    "A clear screen when the phone has no network",
+    "Messages by channel shows counts as well as shares",
+    "Build details moved to About; a quieter Updates card",
+    "The camera button no longer stutters on the profile page"
   ]
 }
