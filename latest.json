@@ -1,13 +1,14 @@
 {
-  "version": "1.0.12",
-  "build": 32,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.12/bellosend-1.0.12-universal.apk",
-  "sha256": "e5d3f1bebfb69338c445d24417ca2e8c070e94483f2cb58dba25329b836530ab",
-  "size": 109597369,
+  "version": "1.0.13",
+  "build": 33,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.13/bellosend-1.0.13-universal.apk",
+  "sha256": "f35aa2318662e5ae64b1cade42697752f8900ac3593f5703cbe4077c1d602ca4",
+  "size": 109958029,
   "min_build": 0,
-  "published_at": "2026-10-02T17:38:51Z",
+  "published_at": "2026-10-02T18:47:17Z",
   "notes": [
-    "Updates download in the background with progress in a notification, and an Install and restart button",
-    "A download that stops resumes by itself; Restart download is always there"
+    "Service message quota on the Dashboard",
+    "AI settings: configuration and orders",
+    "Notifications and calls only for the organization you are in"
   ]
 }
