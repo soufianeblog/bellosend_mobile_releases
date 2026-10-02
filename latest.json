@@ -1,13 +1,13 @@
 {
-  "version": "1.0.8",
-  "build": 28,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.8/bellosend-1.0.8-universal.apk",
-  "sha256": "b665ba927a674cdf4c9d4c9cd07fa66051918870b4e06aa6a73ff5adc175ab28",
-  "size": 108601213,
+  "version": "1.0.9",
+  "build": 29,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.9/bellosend-1.0.9-universal.apk",
+  "sha256": "fb44271ff802367f5f6c444141e199540bacf3c1e9fc8b795e4ca13e50d95f8c",
+  "size": 108617597,
   "min_build": 0,
-  "published_at": "2026-10-02T15:00:40Z",
+  "published_at": "2026-10-02T15:16:08Z",
   "notes": [
-    "Greeting message and keyword rules can be managed from Settings",
-    "Keyword rules can answer once per conversation"
+    "Updates download by themselves and offer to install when ready",
+    "The update dialog now appears when the app opens"
   ]
 }
