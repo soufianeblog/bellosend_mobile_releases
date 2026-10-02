@@ -1,15 +1,13 @@
 {
-  "version": "1.0.10",
-  "build": 30,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.10/bellosend-1.0.10-universal.apk",
-  "sha256": "2001ff47222b91e33d5b269ecabaffeb430bc7db2a00bfb68266f32e30ed3749",
-  "size": 109597333,
+  "version": "1.0.11",
+  "build": 31,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.11/bellosend-1.0.11-universal.apk",
+  "sha256": "dc6f24634775d1a5afc5736d694923045ed62037e3191caf233613e98d193f50",
+  "size": 109597337,
   "min_build": 0,
-  "published_at": "2026-10-02T17:19:36Z",
+  "published_at": "2026-10-02T17:27:44Z",
   "notes": [
-    "Notifications and WhatsApp calls arrive with the app closed",
-    "Updates download by themselves and resume after the phone locks",
-    "Channels as a row of faces under the organization, with unreplied counts",
-    "Tags, segments and campaigns in Settings"
+    "Channel row with unreplied counts on Calls, Dashboard and Interactions",
+    "Pull to refresh no longer covers the channels in Chats"
   ]
 }
