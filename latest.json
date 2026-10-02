@@ -1,13 +1,13 @@
 {
-  "version": "1.0.11",
-  "build": 31,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.11/bellosend-1.0.11-universal.apk",
-  "sha256": "dc6f24634775d1a5afc5736d694923045ed62037e3191caf233613e98d193f50",
-  "size": 109597337,
+  "version": "1.0.12",
+  "build": 32,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.12/bellosend-1.0.12-universal.apk",
+  "sha256": "e5d3f1bebfb69338c445d24417ca2e8c070e94483f2cb58dba25329b836530ab",
+  "size": 109597369,
   "min_build": 0,
-  "published_at": "2026-10-02T17:27:44Z",
+  "published_at": "2026-10-02T17:38:51Z",
   "notes": [
-    "Channel row with unreplied counts on Calls, Dashboard and Interactions",
-    "Pull to refresh no longer covers the channels in Chats"
+    "Updates download in the background with progress in a notification, and an Install and restart button",
+    "A download that stops resumes by itself; Restart download is always there"
   ]
 }
