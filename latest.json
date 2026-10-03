@@ -1,12 +1,14 @@
 {
-  "version": "1.0.15",
-  "build": 35,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.15/bellosend-1.0.15-universal.apk",
-  "sha256": "e0e10a68d544c80483dac092245b27fecfe686134e7b9541e7ea45a41a888013",
-  "size": 109843665,
+  "version": "1.0.16",
+  "build": 36,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.16/bellosend-1.0.16-universal.apk",
+  "sha256": "bb4f8315ca4e834d8cfc7aadad454a671513ad396d18a358f66bf438d27cdf8e",
+  "size": 110599820,
   "min_build": 0,
-  "published_at": "2026-10-03T07:52:48Z",
+  "published_at": "2026-10-03T08:26:04Z",
   "notes": [
-    "Instagram messages: chatbot, keyword rule and workflow names and error lines are now white and easy to read on the purple bubbles"
+    "New Liquid Glass navigation bar with iOS-style icons",
+    "Unread badge on the selected tab is white and easy to read",
+    "Instagram messages: chatbot, keyword rule and workflow names and error lines are white on the purple bubbles"
   ]
 }
