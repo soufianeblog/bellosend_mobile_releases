@@ -1,14 +1,14 @@
 {
-  "version": "1.0.18",
-  "build": 38,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.18/bellosend-1.0.18-universal.apk",
-  "sha256": "54e4cd2796ab05c2b8a859f95461bf2b3b25f3b48cac91ffba03f67bdaa56102",
-  "size": 110765728,
+  "version": "1.0.19",
+  "build": 39,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.19/bellosend-1.0.19-universal.apk",
+  "sha256": "ad8a8a7769a8bc8b949620f9fb14e7b0bf580aad647c9a39a55a935b40137fd6",
+  "size": 110798552,
   "min_build": 0,
-  "published_at": "2026-10-03T10:21:25Z",
+  "published_at": "2026-10-03T10:39:39Z",
   "notes": [
-    "Settings: counts and arrows line up on the right",
-    "Liquid Glass switches",
-    "New icon for your availability"
+    "Lists and buttons no longer hide behind the navigation bar",
+    "Calls list no longer repeats itself",
+    "New Change password page"
   ]
 }
