@@ -1,14 +1,14 @@
 {
-  "version": "1.0.17",
-  "build": 37,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.17/bellosend-1.0.17-universal.apk",
-  "sha256": "eeed9c9e707af7a9d11bd6f2c9c685eb09283538e4cf2f0d21b64f1a9df1c7ab",
-  "size": 110618328,
+  "version": "1.0.18",
+  "build": 38,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.18/bellosend-1.0.18-universal.apk",
+  "sha256": "54e4cd2796ab05c2b8a859f95461bf2b3b25f3b48cac91ffba03f67bdaa56102",
+  "size": 110765728,
   "min_build": 0,
-  "published_at": "2026-10-03T10:04:21Z",
+  "published_at": "2026-10-03T10:21:25Z",
   "notes": [
-    "Settings redesigned in the iOS style: grouped cards with colored icons, new Profile, Interface, About and Updates pages",
-    "Navigation: unread badges stand clear of the selected icon, and Interactions uses the comment bubble",
-    "Softer field colors that match the app, in light and dark mode"
+    "Settings: counts and arrows line up on the right",
+    "Liquid Glass switches",
+    "New icon for your availability"
   ]
 }
