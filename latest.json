@@ -1,14 +1,14 @@
 {
-  "version": "1.0.16",
-  "build": 36,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.16/bellosend-1.0.16-universal.apk",
-  "sha256": "bb4f8315ca4e834d8cfc7aadad454a671513ad396d18a358f66bf438d27cdf8e",
-  "size": 110599820,
+  "version": "1.0.17",
+  "build": 37,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.17/bellosend-1.0.17-universal.apk",
+  "sha256": "eeed9c9e707af7a9d11bd6f2c9c685eb09283538e4cf2f0d21b64f1a9df1c7ab",
+  "size": 110618328,
   "min_build": 0,
-  "published_at": "2026-10-03T08:26:04Z",
+  "published_at": "2026-10-03T10:04:21Z",
   "notes": [
-    "New Liquid Glass navigation bar with iOS-style icons",
-    "Unread badge on the selected tab is white and easy to read",
-    "Instagram messages: chatbot, keyword rule and workflow names and error lines are white on the purple bubbles"
+    "Settings redesigned in the iOS style: grouped cards with colored icons, new Profile, Interface, About and Updates pages",
+    "Navigation: unread badges stand clear of the selected icon, and Interactions uses the comment bubble",
+    "Softer field colors that match the app, in light and dark mode"
   ]
 }
