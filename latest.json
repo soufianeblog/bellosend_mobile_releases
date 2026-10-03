@@ -1,13 +1,13 @@
 {
-  "version": "1.0.20",
-  "build": 40,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.20/bellosend-1.0.20-universal.apk",
-  "sha256": "f0d3bc3d9a8d83dac426ca4eea5ca39982edbeb592b5cc8c0ebcd41924a55e96",
-  "size": 110798552,
+  "version": "1.0.21",
+  "build": 41,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.21/bellosend-1.0.21-universal.apk",
+  "sha256": "7624291a5df995c3b8041b6bf9d385ab77cdce92197bd64d5a92a82545eb08b9",
+  "size": 110798636,
   "min_build": 0,
-  "published_at": "2026-10-03T10:51:43Z",
+  "published_at": "2026-10-03T10:58:40Z",
   "notes": [
-    "Cleaner Change password page",
-    "Floating buttons: black icon on green"
+    "New More button (⋮) and new call icon",
+    "Black icons on green buttons"
   ]
 }
