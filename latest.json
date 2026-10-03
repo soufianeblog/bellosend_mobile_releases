@@ -1,14 +1,12 @@
 {
-  "version": "1.0.14",
-  "build": 34,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.14/bellosend-1.0.14-universal.apk",
-  "sha256": "540755c9a7f7d18c9b257d9e6896d5e0ecc9534f8a48a4a7709c781f7cb915aa",
+  "version": "1.0.15",
+  "build": 35,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.15/bellosend-1.0.15-universal.apk",
+  "sha256": "e0e10a68d544c80483dac092245b27fecfe686134e7b9541e7ea45a41a888013",
   "size": 109843665,
   "min_build": 0,
-  "published_at": "2026-10-02T23:14:24Z",
+  "published_at": "2026-10-03T07:52:48Z",
   "notes": [
-    "New look: floating glass navigation bar, glass switches and rounded fields",
-    "Counts beside keyword rules, tags, segments, campaigns and channels in Settings",
-    "Unread badge on the selected tab is easier to read"
+    "Instagram messages: chatbot, keyword rule and workflow names and error lines are now white and easy to read on the purple bubbles"
   ]
 }
