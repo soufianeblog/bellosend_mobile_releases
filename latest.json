@@ -1,13 +1,15 @@
 {
-  "version": "1.0.21",
-  "build": 41,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.21/bellosend-1.0.21-universal.apk",
-  "sha256": "7624291a5df995c3b8041b6bf9d385ab77cdce92197bd64d5a92a82545eb08b9",
+  "version": "1.0.22",
+  "build": 42,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.22/bellosend-1.0.22-universal.apk",
+  "sha256": "0741bd676fa2ce3bbacbcf74dcc96885bc70602b8df1275d8eef3414de91d751",
   "size": 110798636,
   "min_build": 0,
-  "published_at": "2026-10-03T10:58:40Z",
+  "published_at": "2026-10-11T01:15:14Z",
   "notes": [
-    "New More button (⋮) and new call icon",
-    "Black icons on green buttons"
+    "Search organizations by name in the organization picker",
+    "The organization badge now shows the current organization's unread conversations",
+    "Swiping up from the bottom to leave the app no longer scrolls the list behind it",
+    "Fixed recent conversations disappearing from the inbox after midnight"
   ]
 }
