@@ -1,15 +1,14 @@
 {
-  "version": "1.0.22",
-  "build": 42,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.22/bellosend-1.0.22-universal.apk",
-  "sha256": "0741bd676fa2ce3bbacbcf74dcc96885bc70602b8df1275d8eef3414de91d751",
-  "size": 110798636,
+  "version": "1.0.23",
+  "build": 43,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.23/bellosend-1.0.23-universal.apk",
+  "sha256": "435d532bb3965deee5ce1babc957624eece5f1659ed504a317b5f4780ed9e964",
+  "size": 110831496,
   "min_build": 0,
-  "published_at": "2026-10-11T01:15:14Z",
+  "published_at": "2026-10-12T07:31:43Z",
   "notes": [
-    "Search organizations by name in the organization picker",
-    "The organization badge now shows the current organization's unread conversations",
-    "Swiping up from the bottom to leave the app no longer scrolls the list behind it",
-    "Fixed recent conversations disappearing from the inbox after midnight"
+    "Voice notes now show their real waveform and play one after another, like WhatsApp",
+    "Messages sent from the Instagram app show the account and where they were sent from",
+    "Media removed after the storage limit shows as Media expired"
   ]
 }
