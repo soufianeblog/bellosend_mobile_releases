@@ -1,14 +1,12 @@
 {
-  "version": "1.0.23",
-  "build": 43,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.23/bellosend-1.0.23-universal.apk",
-  "sha256": "435d532bb3965deee5ce1babc957624eece5f1659ed504a317b5f4780ed9e964",
+  "version": "1.0.24",
+  "build": 44,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.24/bellosend-1.0.24-universal.apk",
+  "sha256": "d38a1976e51e2ecf09c905d7062ef41794c5570997ffe70a0bb6d5f37414f16f",
   "size": 110831496,
   "min_build": 0,
-  "published_at": "2026-10-12T07:31:43Z",
+  "published_at": "2026-10-14T05:30:18Z",
   "notes": [
-    "Voice notes now show their real waveform and play one after another, like WhatsApp",
-    "Messages sent from the Instagram app show the account and where they were sent from",
-    "Media removed after the storage limit shows as Media expired"
+    "Fixes the crash on launch and in Settings when the phone was asked for notification permission"
   ]
 }
