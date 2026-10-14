@@ -1,12 +1,13 @@
 {
-  "version": "1.0.24",
-  "build": 44,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.24/bellosend-1.0.24-universal.apk",
-  "sha256": "d38a1976e51e2ecf09c905d7062ef41794c5570997ffe70a0bb6d5f37414f16f",
+  "version": "1.0.25",
+  "build": 45,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.25/bellosend-1.0.25-universal.apk",
+  "sha256": "b5ccb21e28a50e5db56cdb8a4baa2e0ef8db8068287a478741db10ecae2feaed",
   "size": 110831496,
   "min_build": 0,
-  "published_at": "2026-10-14T05:30:18Z",
+  "published_at": "2026-10-14T11:50:11Z",
   "notes": [
-    "Fixes the crash on launch and in Settings when the phone was asked for notification permission"
+    "Quick messages: rename attached files and photos",
+    "Find a quick message by the name of its files, in every picker"
   ]
 }
