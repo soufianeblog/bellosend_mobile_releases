@@ -1,13 +1,13 @@
 {
-  "version": "1.0.25",
-  "build": 45,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.25/bellosend-1.0.25-universal.apk",
-  "sha256": "b5ccb21e28a50e5db56cdb8a4baa2e0ef8db8068287a478741db10ecae2feaed",
-  "size": 110831496,
+  "version": "1.0.26",
+  "build": 46,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.26/bellosend-1.0.26-universal.apk",
+  "sha256": "0f27cab2d99c15152b120a674fc625ec7b736156d7f6f578aeb17acb645b71c7",
+  "size": 110897032,
   "min_build": 0,
-  "published_at": "2026-10-14T11:50:11Z",
+  "published_at": "2026-10-15T14:41:46Z",
   "notes": [
-    "Quick messages: rename attached files and photos",
-    "Find a quick message by the name of its files, in every picker"
+    "Every ad a customer came through shows its full card, with a picture that no longer expires",
+    "Instagram photos are drawn without a frame, as Instagram shows them"
   ]
 }
