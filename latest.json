@@ -1,13 +1,13 @@
 {
-  "version": "1.0.26",
-  "build": 46,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.26/bellosend-1.0.26-universal.apk",
-  "sha256": "0f27cab2d99c15152b120a674fc625ec7b736156d7f6f578aeb17acb645b71c7",
-  "size": 110897032,
+  "version": "1.0.27",
+  "build": 47,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.27/bellosend-1.0.27-universal.apk",
+  "sha256": "4db923eb11f0b051c248659f078000c0797a53ecf33e33d19ced0450eef5c33d",
+  "size": 110978956,
   "min_build": 0,
-  "published_at": "2026-10-15T14:41:46Z",
+  "published_at": "2026-10-15T18:00:05Z",
   "notes": [
-    "Every ad a customer came through shows its full card, with a picture that no longer expires",
-    "Instagram photos are drawn without a frame, as Instagram shows them"
+    "Instagram phone-number cards show the number with WhatsApp message and Call, as on Instagram",
+    "Instagram cards whose content was not shared say so instead of [card]"
   ]
 }
