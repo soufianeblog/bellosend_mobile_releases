@@ -1,13 +1,14 @@
 {
-  "version": "1.0.27",
-  "build": 47,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.27/bellosend-1.0.27-universal.apk",
-  "sha256": "4db923eb11f0b051c248659f078000c0797a53ecf33e33d19ced0450eef5c33d",
+  "version": "1.0.28",
+  "build": 48,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.28/bellosend-1.0.28-universal.apk",
+  "sha256": "7ce352b6811d3d4d42df570f37b1e5096021afc5ce85b04693d6d5c5f4060bf0",
   "size": 110978956,
   "min_build": 0,
-  "published_at": "2026-10-15T18:00:05Z",
+  "published_at": "2026-10-19T19:17:29Z",
   "notes": [
-    "Instagram phone-number cards show the number with WhatsApp message and Call, as on Instagram",
-    "Instagram cards whose content was not shared say so instead of [card]"
+    "The reply window opens right away when a customer's first message arrives late",
+    "Products sold on quote show “Price on request” in the order picker",
+    "Agents can tag conversations, matching the web app"
   ]
 }
