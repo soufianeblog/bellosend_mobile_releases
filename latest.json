@@ -1,14 +1,15 @@
 {
-  "version": "1.0.28",
-  "build": 48,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.28/bellosend-1.0.28-universal.apk",
-  "sha256": "7ce352b6811d3d4d42df570f37b1e5096021afc5ce85b04693d6d5c5f4060bf0",
-  "size": 110978956,
+  "version": "1.0.29",
+  "build": 49,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.29/bellosend-1.0.29-universal.apk",
+  "sha256": "89e691677e2c6b28041c769a02b65c1c09bde9cfe1361f1918c9de5b5ff9cf43",
+  "size": 110995336,
   "min_build": 0,
-  "published_at": "2026-10-19T19:17:29Z",
+  "published_at": "2026-10-22T00:14:43Z",
   "notes": [
-    "The reply window opens right away when a customer's first message arrives late",
-    "Products sold on quote show “Price on request” in the order picker",
-    "Agents can tag conversations, matching the web app"
+    "Tags can set the order status (e.g. COMMANDE → Draft)",
+    "Options are required for products that have them",
+    "Tagged orders on the ads report",
+    "Edit the customer's name in contact details; better city search"
   ]
 }
