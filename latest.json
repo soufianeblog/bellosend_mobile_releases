@@ -1,15 +1,12 @@
 {
-  "version": "1.0.29",
-  "build": 49,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.29/bellosend-1.0.29-universal.apk",
-  "sha256": "89e691677e2c6b28041c769a02b65c1c09bde9cfe1361f1918c9de5b5ff9cf43",
-  "size": 110995336,
+  "version": "1.0.30",
+  "build": 50,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.30/bellosend-1.0.30-universal.apk",
+  "sha256": "b57700d79fd3b31caa7a2fb26bcc74c63fe9ed0f1c9e58f95050ddcd49dd766b",
+  "size": 110995340,
   "min_build": 0,
-  "published_at": "2026-10-22T00:14:43Z",
+  "published_at": "2026-10-22T00:47:53Z",
   "notes": [
-    "Tags can set the order status (e.g. COMMANDE → Draft)",
-    "Options are required for products that have them",
-    "Tagged orders on the ads report",
-    "Edit the customer's name in contact details; better city search"
+    "Tagged orders on the ads report are split by tag, in each tag's colour"
   ]
 }
