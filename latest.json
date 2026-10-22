@@ -1,13 +1,13 @@
 {
-  "version": "1.0.31",
-  "build": 51,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.31/bellosend-1.0.31-universal.apk",
-  "sha256": "5091042ba99e389a4d6b892529b0f39b15d3c1cc895c6e9eccfb1820c7202c37",
+  "version": "1.0.32",
+  "build": 52,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.32/bellosend-1.0.32-universal.apk",
+  "sha256": "1bda2156184eae8cae6f482d302ae948a119e4c00a12efe8ace2ca594dee9793",
   "size": 110995340,
   "min_build": 0,
-  "published_at": "2026-10-22T02:15:46Z",
+  "published_at": "2026-10-22T15:59:39Z",
   "notes": [
-    "Posts show tagged orders by tag",
-    "Ads and posts open sorted by tagged orders"
+    "The Install button on the Updates page works again",
+    "Ad and post totals show how tagged orders split between tags"
   ]
 }
