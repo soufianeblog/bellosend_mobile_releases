@@ -1,13 +1,13 @@
 {
-  "version": "1.0.33",
-  "build": 53,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.33/bellosend-1.0.33-universal.apk",
-  "sha256": "9e298a34687b570865d8f82e165c410f372f3f10edd8ab329addcdb1fbe03020",
+  "version": "1.0.34",
+  "build": 54,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.34/bellosend-1.0.34-universal.apk",
+  "sha256": "694d2c59f625bcc648b8a66229db486106e07d2a2d7516e1085f3a3231b793d8",
   "size": 111323016,
   "min_build": 0,
-  "published_at": "2026-10-22T16:47:47Z",
+  "published_at": "2026-10-22T17:04:50Z",
   "notes": [
-    "Charts on the ads report: tagged orders over time by tag or by ad, funnel, and donuts",
-    "Each ad under a shared post shows its own tagged orders and tags"
+    "Ad charts open on tagged orders by ad, with tooltips sorted biggest first",
+    "Bigger donuts, and the Charts section remembers whether it was folded"
   ]
 }
