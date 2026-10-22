@@ -1,12 +1,13 @@
 {
-  "version": "1.0.30",
-  "build": 50,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.30/bellosend-1.0.30-universal.apk",
-  "sha256": "b57700d79fd3b31caa7a2fb26bcc74c63fe9ed0f1c9e58f95050ddcd49dd766b",
+  "version": "1.0.31",
+  "build": 51,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.31/bellosend-1.0.31-universal.apk",
+  "sha256": "5091042ba99e389a4d6b892529b0f39b15d3c1cc895c6e9eccfb1820c7202c37",
   "size": 110995340,
   "min_build": 0,
-  "published_at": "2026-10-22T00:47:53Z",
+  "published_at": "2026-10-22T02:15:46Z",
   "notes": [
-    "Tagged orders on the ads report are split by tag, in each tag's colour"
+    "Posts show tagged orders by tag",
+    "Ads and posts open sorted by tagged orders"
   ]
 }
