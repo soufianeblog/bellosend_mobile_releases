@@ -1,13 +1,13 @@
 {
-  "version": "1.0.32",
-  "build": 52,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.32/bellosend-1.0.32-universal.apk",
-  "sha256": "1bda2156184eae8cae6f482d302ae948a119e4c00a12efe8ace2ca594dee9793",
-  "size": 110995340,
+  "version": "1.0.33",
+  "build": 53,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.33/bellosend-1.0.33-universal.apk",
+  "sha256": "9e298a34687b570865d8f82e165c410f372f3f10edd8ab329addcdb1fbe03020",
+  "size": 111323016,
   "min_build": 0,
-  "published_at": "2026-10-22T15:59:39Z",
+  "published_at": "2026-10-22T16:47:47Z",
   "notes": [
-    "The Install button on the Updates page works again",
-    "Ad and post totals show how tagged orders split between tags"
+    "Charts on the ads report: tagged orders over time by tag or by ad, funnel, and donuts",
+    "Each ad under a shared post shows its own tagged orders and tags"
   ]
 }
