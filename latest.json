@@ -1,13 +1,12 @@
 {
-  "version": "1.0.34",
-  "build": 54,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.34/bellosend-1.0.34-universal.apk",
-  "sha256": "694d2c59f625bcc648b8a66229db486106e07d2a2d7516e1085f3a3231b793d8",
-  "size": 111323016,
+  "version": "1.0.35",
+  "build": 55,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.35/bellosend-1.0.35-universal.apk",
+  "sha256": "06b36e67ec4c4d055b4a4e8971090ec8d1f7207d93e325cf825d4a91b9614af2",
+  "size": 111388880,
   "min_build": 0,
-  "published_at": "2026-10-22T17:04:50Z",
+  "published_at": "2026-10-26T00:13:52Z",
   "notes": [
-    "Ad charts open on tagged orders by ad, with tooltips sorted biggest first",
-    "Bigger donuts, and the Charts section remembers whether it was folded"
+    "Telegram notifications: admins can set up the organization bot's alerts for customers waiting for a reply, from Settings → Notifications"
   ]
 }
