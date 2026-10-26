@@ -1,12 +1,12 @@
 {
-  "version": "1.0.35",
-  "build": 55,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.35/bellosend-1.0.35-universal.apk",
-  "sha256": "06b36e67ec4c4d055b4a4e8971090ec8d1f7207d93e325cf825d4a91b9614af2",
-  "size": 111388880,
+  "version": "1.0.36",
+  "build": 56,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.36/bellosend-1.0.36-universal.apk",
+  "sha256": "cb32d934721abdf88f2e90708754fef3369d9c1b41ab5714188a41506a32f6b7",
+  "size": 111586032,
   "min_build": 0,
-  "published_at": "2026-10-26T00:13:52Z",
+  "published_at": "2026-10-26T04:14:01Z",
   "notes": [
-    "Telegram notifications: admins can set up the organization bot's alerts for customers waiting for a reply, from Settings → Notifications"
+    "New plan pricing in Billing: see your personalized plan, build your own plan with a live price, and pay monthly or yearly"
   ]
 }
