@@ -1,12 +1,15 @@
 {
-  "version": "1.0.36",
-  "build": 56,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.36/bellosend-1.0.36-universal.apk",
-  "sha256": "cb32d934721abdf88f2e90708754fef3369d9c1b41ab5714188a41506a32f6b7",
-  "size": 111586032,
+  "version": "1.0.37",
+  "build": 57,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.37/bellosend-1.0.37-universal.apk",
+  "sha256": "321a846c6601c67005172ada063b407979d994132445773eb09db1be0bc918ad",
+  "size": 111586028,
   "min_build": 0,
-  "published_at": "2026-10-26T04:14:01Z",
+  "published_at": "2026-10-30T20:16:44Z",
   "notes": [
-    "New plan pricing in Billing: see your personalized plan, build your own plan with a live price, and pay monthly or yearly"
+    "Replying to a video shows its picture, and replying to a message from an ad shows the ad",
+    "Order options show their swatch or colour, and which are out of stock",
+    "Admins can remove an Instagram handle from a contact who now writes on WhatsApp",
+    "Fixed a crash opening a conversation when a name is missing"
   ]
 }
