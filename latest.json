@@ -1,13 +1,12 @@
 {
-  "version": "1.0.42",
-  "build": 62,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.42/bellosend-1.0.42-universal.apk",
-  "sha256": "bee8e2c3f31604b417e2e49a738ad336737c3e702c0be887018a2f8c2125eafb",
-  "size": 111618972,
+  "version": "1.0.43",
+  "build": 63,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.43/bellosend-1.0.43-universal.apk",
+  "sha256": "35707b2d8505d4c1c125a486f3d2911602ba14385956d9320a663f3d4aebee2a",
+  "size": 112176504,
   "min_build": 0,
-  "published_at": "2026-10-31T14:41:42Z",
+  "published_at": "2026-10-31T16:24:08Z",
   "notes": [
-    "Extract details from the conversation fills contact, location and order at once",
-    "Contact, location and order details save automatically"
+    "Manage WhatsApp templates: list, preview, create, edit, copy, submit to Meta and delete"
   ]
 }
