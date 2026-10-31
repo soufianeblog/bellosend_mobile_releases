@@ -1,12 +1,12 @@
 {
-  "version": "1.0.43",
-  "build": 63,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.43/bellosend-1.0.43-universal.apk",
-  "sha256": "35707b2d8505d4c1c125a486f3d2911602ba14385956d9320a663f3d4aebee2a",
+  "version": "1.0.44",
+  "build": 64,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.44/bellosend-1.0.44-universal.apk",
+  "sha256": "ce0b6e522f2e3660f8969e414e90d7f223f14a32c9857898dede89c310bea4d3",
   "size": 112176504,
   "min_build": 0,
-  "published_at": "2026-10-31T16:24:08Z",
+  "published_at": "2026-10-31T20:46:40Z",
   "notes": [
-    "Manage WhatsApp templates: list, preview, create, edit, copy, submit to Meta and delete"
+    "Order options: the shop's "Verify later" choice is marked and listed last"
   ]
 }
