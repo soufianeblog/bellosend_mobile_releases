@@ -1,12 +1,12 @@
 {
-  "version": "1.0.38",
-  "build": 58,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.38/bellosend-1.0.38-universal.apk",
-  "sha256": "d372cbe862a519fdb938d97bf4cd41ee0f279a78de7abc0e4c4206f83e4114b4",
+  "version": "1.0.39",
+  "build": 59,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.39/bellosend-1.0.39-universal.apk",
+  "sha256": "b2deda886f3a65c89733d1a2e8ceb4958e6eca6454dd0af80f39fd74e3bfc671",
   "size": 111586028,
   "min_build": 0,
-  "published_at": "2026-10-31T10:25:21Z",
+  "published_at": "2026-10-31T11:36:39Z",
   "notes": [
-    "AI notes for the team (order saved, hand-off) no longer show as a failed message in the chat list"
+    "The Updates page's Install button opens Android's installer again, without restarting the app first"
   ]
 }
