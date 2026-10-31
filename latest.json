@@ -1,14 +1,13 @@
 {
-  "version": "1.0.41",
-  "build": 61,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.41/bellosend-1.0.41-universal.apk",
-  "sha256": "f96e8f570b266e74fc84db0a65b766a493fb72186bbe4d4ee231e6d3778d04e8",
-  "size": 111700928,
+  "version": "1.0.42",
+  "build": 62,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.42/bellosend-1.0.42-universal.apk",
+  "sha256": "bee8e2c3f31604b417e2e49a738ad336737c3e702c0be887018a2f8c2125eafb",
+  "size": 111618972,
   "min_build": 0,
-  "published_at": "2026-10-31T13:44:25Z",
+  "published_at": "2026-10-31T14:41:42Z",
   "notes": [
-    "AI settings: BelloCommerce order sending, tracking and changes",
-    "Billing: pay by card with automatic renewal (when enabled)",
-    "Failed messages show Meta's error code and what it means"
+    "Extract details from the conversation fills contact, location and order at once",
+    "Contact, location and order details save automatically"
   ]
 }
