@@ -1,14 +1,14 @@
 {
-  "version": "1.0.45",
-  "build": 65,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.45/bellosend-1.0.45-universal.apk",
-  "sha256": "3829f01aaed6aa5cda3e5122227696a56583f5574e766e06997c727a45bf85bf",
-  "size": 112176504,
+  "version": "1.0.46",
+  "build": 66,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.46/bellosend-1.0.46-universal.apk",
+  "sha256": "db9294cc03c3d2d1dbd5368a0fd0e3c290e8f2c651498f8f787b1beacceae70a",
+  "size": 112209364,
   "min_build": 0,
-  "published_at": "2026-11-01T12:29:46Z",
+  "published_at": "2026-11-01T23:55:47Z",
   "notes": [
-    "Contact details: location in the same card; optional fields switchable",
-    "Disabled organizations sign their people out with the reason",
-    "Instagram profile and thread from the conversation menu"
+    "A customer who writes on both Instagram and WhatsApp now shows as one conversation; the channel button switches between them",
+    "The contact screen shows the same customer's other channel, with Unlink",
+    "Orders show their type, and who created and confirmed them"
   ]
 }
