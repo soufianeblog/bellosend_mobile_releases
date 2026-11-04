@@ -1,14 +1,13 @@
 {
-  "version": "1.0.47",
-  "build": 67,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.47/bellosend-1.0.47-universal.apk",
-  "sha256": "7a03491bae932555fc870bfda666ad778222505349f806aa39661200b3b99080",
+  "version": "1.0.48",
+  "build": 68,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.48/bellosend-1.0.48-universal.apk",
+  "sha256": "89979ff0804ebfb45f76898f4b4e58cd12c28989e45da83e3a188ab236f2975c",
   "size": 112274900,
   "min_build": 0,
-  "published_at": "2026-11-04T15:16:42Z",
+  "published_at": "2026-11-04T16:39:44Z",
   "notes": [
-    "Back now always works: from a conversation it returns to the chats list, never closes the app",
-    "Reopening the app starts on your last tab (Dashboard or Chats), not inside a conversation",
-    "Opening a notification puts the conversation on top of the chats list"
+    "Contacts, Instagram interactions and calls open on the last 3 months",
+    "Choose any date range on those three screens"
   ]
 }
