@@ -1,14 +1,14 @@
 {
-  "version": "1.0.46",
-  "build": 66,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.46/bellosend-1.0.46-universal.apk",
-  "sha256": "db9294cc03c3d2d1dbd5368a0fd0e3c290e8f2c651498f8f787b1beacceae70a",
-  "size": 112209364,
+  "version": "1.0.47",
+  "build": 67,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.47/bellosend-1.0.47-universal.apk",
+  "sha256": "7a03491bae932555fc870bfda666ad778222505349f806aa39661200b3b99080",
+  "size": 112274900,
   "min_build": 0,
-  "published_at": "2026-11-01T23:55:47Z",
+  "published_at": "2026-11-04T15:16:42Z",
   "notes": [
-    "A customer who writes on both Instagram and WhatsApp now shows as one conversation; the channel button switches between them",
-    "The contact screen shows the same customer's other channel, with Unlink",
-    "Orders show their type, and who created and confirmed them"
+    "Back now always works: from a conversation it returns to the chats list, never closes the app",
+    "Reopening the app starts on your last tab (Dashboard or Chats), not inside a conversation",
+    "Opening a notification puts the conversation on top of the chats list"
   ]
 }
