@@ -1,13 +1,12 @@
 {
-  "version": "1.0.48",
-  "build": 68,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.48/bellosend-1.0.48-universal.apk",
-  "sha256": "89979ff0804ebfb45f76898f4b4e58cd12c28989e45da83e3a188ab236f2975c",
-  "size": 112274900,
+  "version": "1.0.49",
+  "build": 69,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.49/bellosend-1.0.49-universal.apk",
+  "sha256": "436eec74a709e727bc7e9177ab48fd923c9d61aa434fb15c2b734537708cb74c",
+  "size": 112291284,
   "min_build": 0,
-  "published_at": "2026-11-04T16:39:44Z",
+  "published_at": "2026-11-05T14:23:29Z",
   "notes": [
-    "Contacts, Instagram interactions and calls open on the last 3 months",
-    "Choose any date range on those three screens"
+    "Chats: an Unreplied filter beside Unread — conversations where the customer is waiting for an answer"
   ]
 }
