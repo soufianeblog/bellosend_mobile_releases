@@ -1,13 +1,13 @@
 {
-  "version": "1.0.50",
-  "build": 70,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.50/bellosend-1.0.50-universal.apk",
-  "sha256": "250d9b1ce5cc305faaafb31b2c3dca14bc3d93e8a4e646346c172b70f7e98be8",
+  "version": "1.0.51",
+  "build": 71,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.51/bellosend-1.0.51-universal.apk",
+  "sha256": "8638dfbcc21f34c8321549faba626a0f26c4d47d9a74ae64f9251a90fa55ec74",
   "size": 112425836,
   "min_build": 0,
-  "published_at": "2026-11-07T18:54:06Z",
+  "published_at": "2026-11-07T19:41:30Z",
   "notes": [
     "Instagram shares now show as cards: profiles, posts, reels, stories, links and phone numbers — tap to open in Instagram",
-    "Content Instagram does not pass to apps is explained, with a button to open the chat in Instagram"
+    "Content Meta does not share with apps is labelled clearly, with a button that opens the exact Instagram chat"
   ]
 }
