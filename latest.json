@@ -1,13 +1,13 @@
 {
-  "version": "1.0.51",
-  "build": 71,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.51/bellosend-1.0.51-universal.apk",
-  "sha256": "8638dfbcc21f34c8321549faba626a0f26c4d47d9a74ae64f9251a90fa55ec74",
-  "size": 112425836,
+  "version": "1.0.52",
+  "build": 72,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.52/bellosend-1.0.52-universal.apk",
+  "sha256": "5655bbd9b7d5fdb0c26878217741b361f3c4d095bdaa325c27b73e3ef7eb0cc9",
+  "size": 112786500,
   "min_build": 0,
-  "published_at": "2026-11-07T19:41:30Z",
+  "published_at": "2026-11-08T14:59:51Z",
   "notes": [
-    "Instagram shares now show as cards: profiles, posts, reels, stories, links and phone numbers — tap to open in Instagram",
-    "Content Meta does not share with apps is labelled clearly, with a button that opens the exact Instagram chat"
+    "Dashboard: unreplied chats, peak days, top team members and top ads, tags on daily conversations, heatmaps, channel rows",
+    "Turning off incoming call alerts or the ringtone now holds everywhere, including with the app closed"
   ]
 }
