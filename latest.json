@@ -1,13 +1,13 @@
 {
-  "version": "1.0.52",
-  "build": 72,
-  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.52/bellosend-1.0.52-universal.apk",
-  "sha256": "5655bbd9b7d5fdb0c26878217741b361f3c4d095bdaa325c27b73e3ef7eb0cc9",
-  "size": 112786500,
+  "version": "1.0.53",
+  "build": 73,
+  "url": "https://github.com/soufianeblog/bellosend_mobile_releases/releases/download/v1.0.53/bellosend-1.0.53-universal.apk",
+  "sha256": "5738fe3c4b5789a9bbebcef4e2b5b7640cef8ead479217d6e46d31e4f2844498",
+  "size": 112770116,
   "min_build": 0,
-  "published_at": "2026-11-08T14:59:51Z",
+  "published_at": "2026-11-08T15:26:53Z",
   "notes": [
-    "Dashboard: unreplied chats, peak days, top team members and top ads, tags on daily conversations, heatmaps, channel rows",
-    "Turning off incoming call alerts or the ringtone now holds everywhere, including with the app closed"
+    "Colour themes: choose Default, Spotify, WhatsApp, Slack or Discord in Settings > Interface; your choice follows you between the app and the web",
+    "Dashboard: a sixth figure (messages) in the top grid, and Messages by channel now shows each channel as a progress row"
   ]
 }
